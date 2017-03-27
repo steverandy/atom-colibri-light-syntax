@@ -1,7 +1,7 @@
 {
   "name": "colibri-light-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Atom light syntax theme based on Colibri Browser color scheme",
   "keywords": [
     "syntax",
